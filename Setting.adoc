@@ -1,0 +1,17 @@
+= Dockerの初期設定
+
+:Author:    Shinpei Urasawa
+:Email:     shin1008@gmail.com
+:Date:      2021/2/11
+:Revision:  0.1.0
+
+[[contents]]
+== 目次
+<<git,gitの準備>>
+
+
+[[git]]
+== gitの準備
+Qiita記事参照。若干オプションが古いので適当に合わせる
+
+link:https://qiita.com/Kenta-Okuda/items/c3dcd60a80a82147e1bf[GitHubの導入〜基本操作 for Windows]
